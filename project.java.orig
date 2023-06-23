@@ -1,0 +1,7 @@
+script one
+script two
+<<<<<<< HEAD
+script three
+script four
+=======
+>>>>>>> 0d95648 (commit by nithya second)
